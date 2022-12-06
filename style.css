@@ -1,0 +1,28 @@
+body{
+background-color: bisque;
+background-repeat: no-repeat;
+}
+#coteret{
+    color: crimson;
+    margin-left: 50%;
+}
+#yarin{
+    margin-top: 200px;
+    margin-left: 0px;
+}
+#kara{
+    height: 400px;
+    width: 300px;
+    margin-left: 270px
+}
+#h1{
+    margin-left: 330px;
+    margin-top: -250px;
+    color: coral;
+}
+
+#hotdog{
+    height: 100px;
+    margin-top: -1px;
+    margin-left: 340px;
+}
