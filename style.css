@@ -7,16 +7,17 @@ background-repeat: no-repeat;
     margin-left: 50%;
 }
 #yarin{
-    margin-top: 200px;
-    margin-left: 0px;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 100px;
 }
 #kara{
     height: 400px;
-    width: 300px;
-    margin-left: 270px
+    width: 100px;
+    margin-left: 100px
 }
 #h1{
-    margin-left: 330px;
+    margin-left: 150px;
     margin-top: -250px;
     color: coral;
 }
