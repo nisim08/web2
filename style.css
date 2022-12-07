@@ -10,12 +10,13 @@ body{
 
 #gir{
     margin-left: 50px;
-    width: 150px;
+    width: 250px;
 
 }
 
 #p{
     color: white;
     direction: rtl;
-    border: 2spx;
+    border: coralS;
+    border-radius: 2px;
 }
