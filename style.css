@@ -14,9 +14,29 @@ body{
 
 }
 
-#p{
+.p{
     color: white;
     direction: rtl;
     border: coralS;
     border-radius: 2px;
+}
+
+#yarin
+{
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#ones{
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+#sof{
+    margin-top: 100px;
+    color: brown;
+    direction: rtl;
 }
