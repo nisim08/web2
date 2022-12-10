@@ -1,5 +1,10 @@
-document.getElementById("bbb").onclick = function () {
+let password = "nisim";
+let agein;
 
-    document.getElementById("wr").innerHTML = "האם אתה בטוח שאתה רוצה לעושת את זה אם כן תלחץ אלי"
-    
+while(agein != password){
+    agein = window.prompt("enter password")
+
+
 }
+
+alert("corect")
